@@ -87,7 +87,7 @@ The following is the information that may be needed during use
 
 | Service | Port | Use |  Necessity |
 | --- | --- | --- | --- |
-| onlyoffice-server | 9001 | Access SSCMS | Y |
+| sscms | 9001 | Access SSCMS | Y |
 ## Documentation
 
 [SSCMS Administrator Guide](https://support.websoft9.com/docs/sscms)

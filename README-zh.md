@@ -94,7 +94,7 @@ sudo docker-compose up -d
 
 | 名称 | 端口号 | 用途 |  必要性 |
 | --- | --- | --- | --- |
-| onlyoffice-server | 9001 | 浏览器访问 SSCMS | Y |
+| sscms | 9001 | 浏览器访问 SSCMS | Y |
 ## 文档
 
 [SSCMS 管理员手册](https://support.websoft9.com/docs/sscms)
