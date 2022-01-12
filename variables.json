@@ -16,7 +16,7 @@
 
   "services":[
     {
-      "name": "onlyoffice-server",
+      "name": "sscms",
       "port": "9001",
       "description_cn": "浏览器访问 SSCMS",
       "description_en": "Access SSCMS",
